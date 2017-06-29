@@ -1,8 +1,8 @@
-package demo
-import (
-    "fmt"
-)
 
-func main() {
-    fmt.Println("hello wrold!")
-}
+hello wrold!!!
+
+
+i am a git test demo
+
+
+
